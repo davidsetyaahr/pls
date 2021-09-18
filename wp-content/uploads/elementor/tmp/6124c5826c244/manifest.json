@@ -1,0 +1,1749 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Abble",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.detheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Hero slide 1",
+            "screenshot": "screenshots\/hero-slide-1.jpg",
+            "source": "templates\/hero-slide-1.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/hero-slide-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Hero slide 2",
+            "screenshot": "screenshots\/hero-slide-2.jpg",
+            "source": "templates\/hero-slide-2.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/hero-slide-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 1",
+            "screenshot": "screenshots\/course-slide-1.jpg",
+            "source": "templates\/course-slide-1.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-1\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 2",
+            "screenshot": "screenshots\/course-slide-2.jpg",
+            "source": "templates\/course-slide-2.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-2\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 3",
+            "screenshot": "screenshots\/course-slide-3.jpg",
+            "source": "templates\/course-slide-3.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-3\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 4",
+            "screenshot": "screenshots\/course-slide-4.jpg",
+            "source": "templates\/course-slide-4.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-4\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 6",
+            "screenshot": "screenshots\/course-slide-6.jpg",
+            "source": "templates\/course-slide-6.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-6\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course slide 7",
+            "screenshot": "screenshots\/course-slide-7.jpg",
+            "source": "templates\/course-slide-7.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-slide-7\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Courses",
+            "screenshot": "screenshots\/courses.jpg",
+            "source": "templates\/courses.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/courses\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Course Detail",
+            "screenshot": "screenshots\/course-detail.jpg",
+            "source": "templates\/course-detail.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/course-detail\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-product",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Events",
+            "screenshot": "screenshots\/events.jpg",
+            "source": "templates\/events.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/events\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Detail",
+            "screenshot": "screenshots\/event-detail.jpg",
+            "source": "templates\/event-detail.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/event-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Instructors",
+            "screenshot": "screenshots\/instructors.jpg",
+            "source": "templates\/instructors.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/instructors\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Instructor Detail",
+            "screenshot": "screenshots\/instructor-detail.jpg",
+            "source": "templates\/instructor-detail.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/instructor-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404",
+            "screenshot": "screenshots\/404.jpg",
+            "source": "templates\/404.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=404",
+            "type": "single",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/coming-soon\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Blog",
+            "screenshot": "screenshots\/blog.jpg",
+            "source": "templates\/blog.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/blog\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Offcanvas",
+            "screenshot": "screenshots\/offcanvas.jpg",
+            "source": "templates\/offcanvas.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=offcanvas",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Optin Popup",
+            "screenshot": "screenshots\/optin-popup.jpg",
+            "source": "templates\/optin-popup.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=optin-popup",
+            "type": "popup",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-popup",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "popup",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Popup\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive",
+            "screenshot": "screenshots\/archive.jpg",
+            "source": "templates\/archive.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/?elementor_library=archive",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Style Guide",
+            "screenshot": "screenshots\/style-guide.jpg",
+            "source": "templates\/style-guide.json",
+            "preview_url": "https:\/\/kit.detheme.com\/abble\/template-kit\/style-guide\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "DethemeKit for Elementor",
+            "version": "1.5.5.2",
+            "file": "dethemekit-for-elementor\/detheme-kit.php",
+            "author": "deTheme"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.0.9",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.0.16",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "icon-abble-dark.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/icon-abble-dark.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 14252,
+            "dimensions": [
+                745,
+                261
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "icon-abble-light.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/icon-abble-light.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 11963,
+            "dimensions": [
+                745,
+                261
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "remote-education-at-home-during-epidemic-young-man-GWNGKP5.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/remote-education-at-home-during-epidemic-young-man-GWNGKP5-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hero-slide-1.json",
+                    "name": "Hero slide 1"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                }
+            ],
+            "filesize": 71381,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GWNGKP5"
+        },
+        {
+            "filename": "portrait-of-smiling-male-school-teacher-standing-i-7KLZDMS.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/portrait-of-smiling-male-school-teacher-standing-i-7KLZDMS-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/hero-slide-2.json",
+                    "name": "Hero slide 2"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 174856,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-7KLZDMS"
+        },
+        {
+            "filename": "millennial-woman-having-video-call-on-her-computer-MQJ9QJM.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/millennial-woman-having-video-call-on-her-computer-MQJ9QJM-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-1.json",
+                    "name": "Course slide 1"
+                }
+            ],
+            "filesize": 73356,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-MQJ9QJM"
+        },
+        {
+            "filename": "lady-sitting-at-desk-using-computer-and-waving-to-VKKUJ7R.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/lady-sitting-at-desk-using-computer-and-waving-to-VKKUJ7R-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-2.json",
+                    "name": "Course slide 2"
+                }
+            ],
+            "filesize": 61815,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VKKUJ7R"
+        },
+        {
+            "filename": "indian-teacher-making-english-video-lesson-pointin-HY8PJSV.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/indian-teacher-making-english-video-lesson-pointin-HY8PJSV-800x502.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-3.json",
+                    "name": "Course slide 3"
+                }
+            ],
+            "filesize": 88675,
+            "dimensions": [
+                1800,
+                1130
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HY8PJSV"
+        },
+        {
+            "filename": "free-time-leisure-and-hobbies-man-teaching-play-ch-8Z9RVKK.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/free-time-leisure-and-hobbies-man-teaching-play-ch-8Z9RVKK-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-4.json",
+                    "name": "Course slide 4"
+                }
+            ],
+            "filesize": 60900,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8Z9RVKK"
+        },
+        {
+            "filename": "doing-exercise-on-tablet-47DFANC.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/doing-exercise-on-tablet-47DFANC-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-6.json",
+                    "name": "Course slide 6"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                }
+            ],
+            "filesize": 48905,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-47DFANC"
+        },
+        {
+            "filename": "distance-education-concept-focused-black-student-s-KQVVUMN.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/distance-education-concept-focused-black-student-s-KQVVUMN-800x510.jpg",
+            "templates": [
+                {
+                    "source": "templates\/course-slide-7.json",
+                    "name": "Course slide 7"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 79694,
+            "dimensions": [
+                1800,
+                1148
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KQVVUMN"
+        },
+        {
+            "filename": "1-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/1-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14283,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "2-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/2-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9779,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/3-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6654,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "smiling-student-sitting-on-stairs-using-laptop-P5YLQC6.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/smiling-student-sitting-on-stairs-using-laptop-P5YLQC6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/course-detail.json",
+                    "name": "Course Detail"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 108544,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P5YLQC6"
+        },
+        {
+            "filename": "15-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/15-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3056,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "14-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/14-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9227,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "13-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/13-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 7433,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-smiling-scientist-working-with-microsc-CRXDHG4.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/portrait-of-smiling-scientist-working-with-microsc-CRXDHG4-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/events.json",
+                    "name": "Events"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 67750,
+            "dimensions": [
+                1800,
+                1201
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CRXDHG4"
+        },
+        {
+            "filename": "12-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/12-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 6607,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "7-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/7-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 5820,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "correspondence-education-and-e-learning-african-am-LRNSZRM.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/correspondence-education-and-e-learning-african-am-LRNSZRM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 92401,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LRNSZRM"
+        },
+        {
+            "filename": "4-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/4-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 6868,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-man-chatting-online-on-laptop-with-friend-at-CHURUJ7.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/happy-man-chatting-online-on-laptop-with-friend-at-CHURUJ7-800x511.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 67081,
+            "dimensions": [
+                1800,
+                1150
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CHURUJ7"
+        },
+        {
+            "filename": "6-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/6-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 3911,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "5-icon-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/5-icon-home.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 7387,
+            "dimensions": [
+                510,
+                510
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "star-DKQWP6M.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/star-DKQWP6M-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 23096,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-DKQWP6M"
+        },
+        {
+            "filename": "1-image-LR68D9A.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/1-image-LR68D9A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 168908,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LR68D9A"
+        },
+        {
+            "filename": "custom-logo2-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo2-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                }
+            ],
+            "filesize": 3740,
+            "dimensions": [
+                348,
+                71
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "half-student-with-school-bag-and-thumb-up-F6EVAPA.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/half-student-with-school-bag-and-thumb-up-F6EVAPA.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 715143,
+            "dimensions": [
+                655,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F6EVAPA"
+        },
+        {
+            "filename": "web-based-education-focused-black-teenager-writing-CTUZ5UH.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/web-based-education-focused-black-teenager-writing-CTUZ5UH-800x523.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 84436,
+            "dimensions": [
+                1800,
+                1177
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-CTUZ5UH"
+        },
+        {
+            "filename": "teacher-at-laptop-having-online-class-with-remote-8ZS3692.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/teacher-at-laptop-having-online-class-with-remote-8ZS3692-800x518.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/event-detail.json",
+                    "name": "Event Detail"
+                }
+            ],
+            "filesize": 82300,
+            "dimensions": [
+                1800,
+                1166
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8ZS3692"
+        },
+        {
+            "filename": "social-distancing-quarantine-for-coronavirus-artis-KC2VDXB.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/social-distancing-quarantine-for-coronavirus-artis-KC2VDXB-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 92017,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KC2VDXB"
+        },
+        {
+            "filename": "smiling-beautiful-business-woman-having-an-online-PLE3NAY.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/smiling-beautiful-business-woman-having-an-online-PLE3NAY-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55859,
+            "dimensions": [
+                1800,
+                1196
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PLE3NAY"
+        },
+        {
+            "filename": "custom-logo9-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo9-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3069,
+            "dimensions": [
+                317,
+                60
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo7-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo7-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3374,
+            "dimensions": [
+                396,
+                85
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo11-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo11-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3121,
+            "dimensions": [
+                275,
+                68
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo3-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo3-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3925,
+            "dimensions": [
+                286,
+                87
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo10-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo10-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6987,
+            "dimensions": [
+                269,
+                117
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "dark-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/dark-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4852,
+            "dimensions": [
+                347,
+                88
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo14-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo14-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3788,
+            "dimensions": [
+                305,
+                121
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo15-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo15-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5974,
+            "dimensions": [
+                264,
+                103
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "custom-logo13-by-rio.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/custom-logo13-by-rio.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4759,
+            "dimensions": [
+                264,
+                101
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/01\/Vector.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 6031,
+            "dimensions": [
+                280,
+                94
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "female-hands-typing-on-laptop-R2SDA53.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/female-hands-typing-on-laptop-R2SDA53-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 53841,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-R2SDA53"
+        },
+        {
+            "filename": "businessman-take-note-on-clipboard-FKK75PW.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/businessman-take-note-on-clipboard-FKK75PW-800x1110.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                }
+            ],
+            "filesize": 206106,
+            "dimensions": [
+                1297,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-FKK75PW"
+        },
+        {
+            "filename": "portrait-of-a-young-businessman-NP4DLGM.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/portrait-of-a-young-businessman-NP4DLGM-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 208172,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NP4DLGM"
+        },
+        {
+            "filename": "apron-barista-coffee-cafe-concept-PZ6BQN3.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/apron-barista-coffee-cafe-concept-PZ6BQN3-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 79059,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZ6BQN3"
+        },
+        {
+            "filename": "portrait-of-a-cheerful-photographer-in-studio-PRHG57X.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/portrait-of-a-cheerful-photographer-in-studio-PRHG57X-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/courses.json",
+                    "name": "Courses"
+                },
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 216160,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PRHG57X"
+        },
+        {
+            "filename": "handsome-student-smiling-in-library-LR68D9A.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/handsome-student-smiling-in-library-LR68D9A-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                },
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                }
+            ],
+            "filesize": 42607,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-LR68D9A"
+        },
+        {
+            "filename": "headphone-song-music-playlist-enterprise-connect-c-PZDJEEZ.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/headphone-song-music-playlist-enterprise-connect-c-PZDJEEZ-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 107558,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PZDJEEZ"
+        },
+        {
+            "filename": "designed-by-artist-man-finishing-his-masterpiece-h-VQ6UW2C.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/designed-by-artist-man-finishing-his-masterpiece-h-VQ6UW2C-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 140800,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-VQ6UW2C"
+        },
+        {
+            "filename": "happy-young-man-in-headset-using-mobile-phone-at-c-USKMT2R.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/happy-young-man-in-headset-using-mobile-phone-at-c-USKMT2R-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 83402,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-USKMT2R"
+        },
+        {
+            "filename": "carpenter-craftmanship-carpentry-handicraft-wooden-P27M4QG.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/carpenter-craftmanship-carpentry-handicraft-wooden-P27M4QG-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 125287,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P27M4QG"
+        },
+        {
+            "filename": "fashion-portrait-of-the-young-beautiful-man-PTFQQ7C.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/fashion-portrait-of-the-young-beautiful-man-PTFQQ7C-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 106915,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PTFQQ7C"
+        },
+        {
+            "filename": "photographer-photograph-photo-photography-concept-P6ACX3D.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/photographer-photograph-photo-photography-concept-P6ACX3D-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/instructors.json",
+                    "name": "Instructors"
+                }
+            ],
+            "filesize": 105598,
+            "dimensions": [
+                1800,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6ACX3D"
+        },
+        {
+            "filename": "3-images-95X838K.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/3-images-95X838K-800x1103.png",
+            "templates": [
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                }
+            ],
+            "filesize": 339943,
+            "dimensions": [
+                1305,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-95X838K"
+        },
+        {
+            "filename": "2-image-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/2-image-home.png",
+            "templates": [
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 7343,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "3-image-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/3-image-home.png",
+            "templates": [
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 7648,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "1-image-home.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/1-image-home.png",
+            "templates": [
+                {
+                    "source": "templates\/instructor-detail.json",
+                    "name": "Instructor Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 4203,
+            "dimensions": [
+                340,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/placeholder-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "placeholder-1.png",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/placeholder-1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 6146,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "successful-computer-programmer-E8236HE.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/successful-computer-programmer-E8236HE-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/offcanvas.json",
+                    "name": "Offcanvas"
+                },
+                {
+                    "source": "templates\/archive.json",
+                    "name": "Archive"
+                }
+            ],
+            "filesize": 65420,
+            "dimensions": [
+                1800,
+                1200
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E8236HE"
+        },
+        {
+            "filename": "student-with-school-bag-and-thumb-up-F6EVAPA.jpg",
+            "thumbnail_url": "http:\/\/kit.detheme.com\/abble\/wp-content\/uploads\/sites\/73\/2021\/02\/student-with-school-bag-and-thumb-up-F6EVAPA-800x1155.jpg",
+            "templates": [
+                {
+                    "source": "templates\/optin-popup.json",
+                    "name": "Optin Popup"
+                }
+            ],
+            "filesize": 217745,
+            "dimensions": [
+                1247,
+                1800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-F6EVAPA"
+        }
+    ]
+}
